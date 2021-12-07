@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "247632958355",
+    "firebase_url": "https://entregueaki.firebaseio.com",
+    "project_id": "entregueaki",
+    "storage_bucket": "entregueaki.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247632958355:android:5ef9d6680b9f5e8f3f4e66",
+        "android_client_info": {
+          "package_name": "br.com.msbtec.entregueaki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247632958355-vk4jq9da0odlel6r4omme2aeem0krhde.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.msbtec.entregueaki",
+            "certificate_hash": "998efdff5548ec485af6a2f07763fa0fcc4752e5"
+          }
+        },
+        {
+          "client_id": "247632958355-b4m4s58knnbg41jik0csuk7vf4tpjee7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.msbtec.entregueaki",
+            "certificate_hash": "2f292da47e2e20bd39604ff6a51bfb7f551d9f8d"
+          }
+        },
+        {
+          "client_id": "247632958355-sui9371tf19ge6phjduat1l1rj3al4nu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMk7YJav3viGSE2zN7QaSVSBBC2ItEERc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247632958355-sui9371tf19ge6phjduat1l1rj3al4nu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "247632958355-4q64m0eujtb8sk0nrjfibqua969bi9a2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.teste"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

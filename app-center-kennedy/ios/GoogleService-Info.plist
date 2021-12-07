@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>43495082237-rk3negpjrsa5d89tikiru6n86q8q66bj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.43495082237-rk3negpjrsa5d89tikiru6n86q8q66bj</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>43495082237-lm4m0kpjumlpq998g10pmkh1qn6kc6j9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDK47pZ40QJnJ9OEmqhkOTDGfZ5GeUKjIE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>43495082237</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.msb.centerkennedy</string>
+	<key>PROJECT_ID</key>
+	<string>centerkennedy-1bc03</string>
+	<key>STORAGE_BUCKET</key>
+	<string>centerkennedy-1bc03.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:43495082237:ios:6559fdd24e9b23866a1694</string>
+	<key>DATABASE_URL</key>
+	<string>https://centerkennedy-1bc03.firebaseio.com</string>
+</dict>
+</plist>

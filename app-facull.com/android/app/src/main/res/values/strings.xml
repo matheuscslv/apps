@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Facull.com</string>
+    <string name="facebook_app_id">182298982874789</string>
+     <string name="fb_login_protocol_scheme">fb182298982874789</string>
+
+
+</resources>

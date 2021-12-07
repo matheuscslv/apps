@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Connect ASM</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">wxFOJcGf3zinT9v_tmGnYnqOuwWuIxq9oxscO</string>
+</resources>

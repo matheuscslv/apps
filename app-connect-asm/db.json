@@ -1,0 +1,30 @@
+{
+  "contra-cheque": [
+    {
+      "id": 1,
+
+      "nomefantasia_estabelecimento": "V S SIQUEIRA EIRELI EPP",
+      "tipologradouro_estabelecimento": "R",
+      "logradouro_estabelecimento": "RUA PARANA",
+      "numero_estabelecimento": "1235",
+      "complemento_estabelecimento": null,
+      "bairro_estabelecimento": "SANTA RITA",
+      "cep_estabelecimento": "68905160",
+      "cidade_estabelecimento": "Macapá",
+      "estado_estabelecimento": "AP",
+      "cnpj_estabelecimento": "34863613000174",
+
+      "ano_calculo": 2017,
+      "mes_calculo": 10,
+
+      "codigo_trabalhador": "118",
+      "nome_trabalhador": "PAULO SERGIO COUTINHO DE SOUSA JUNIOR",
+      "cbo_trabalhador": "521125",
+      "nome_departamento": "FRIOS E SALGADOS",
+
+      "salariobruto_trabalhador": "990",
+      "codigo_evento": "00S1FO",
+      "nome_evento": "Salário Base"
+    }
+  ]
+}

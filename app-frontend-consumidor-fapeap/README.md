@@ -1,0 +1,1 @@
+App QueroAçaiConsumidor tem como o objetivo fazer com que o consumidor tenha contato com as batedeiras de açai cadastradas no municipio de Macapá e com isso fazer pedidos dos produtos disponiveis nessas batedeiras

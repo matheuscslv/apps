@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">mChat</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">wJb4qzRcKLp_2xlZKiZIJgf247H-0bzdT8nIW</string>
+</resources>

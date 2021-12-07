@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Maranata</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">K2lV9uOzCm8Ar5RAgpJ6OfaPbmOfS-4i47NYz</string>
+</resources>

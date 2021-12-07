@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "43495082237",
+    "firebase_url": "https://centerkennedy-1bc03.firebaseio.com",
+    "project_id": "centerkennedy-1bc03",
+    "storage_bucket": "centerkennedy-1bc03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43495082237:android:05c6443d4decfbf26a1694",
+        "android_client_info": {
+          "package_name": "com.centerkennedy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43495082237-j0h3nei2hgq2ovu3va8hsbvusn0ruun7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.centerkennedy",
+            "certificate_hash": "6b3aa39eab9ad364c7f050cc8630efa16ef54b23"
+          }
+        },
+        {
+          "client_id": "43495082237-0jseg92n8rdbor44dglcm2bpua1stjh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBEShPwqV26CnF0j8NoR_YFpl0-PJs3gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43495082237-0jseg92n8rdbor44dglcm2bpua1stjh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
